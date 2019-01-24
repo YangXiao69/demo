@@ -118,21 +118,3 @@
   }
 }
 
-{
-  "C":"007PX",
-  "U":"007Q1",
-  "K":"201811191410254635",
-  "V":"7BAE0FD2F5FA7CD0A847EE2D83DF4E18",
-  "Name":"Equipment",
-  "Values":{
-    "Date":"2018-11-19 14:10:25",
-    "Id":"1353731KIS",
-    "Worker": "98",
-    "Stadus": "2",
-    "Order": "1353731KIS",
-    "LiaoHao": "0",
-    "SerialNumber": "0",
-    "LiangLv": 25,
-    "Over": 80
-  }
-}
